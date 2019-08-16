@@ -1,3 +1,5 @@
+
+__________________________________________________________________________________
 How to configure a django environment with machine Learning
 
 1. Open the console or terminal
@@ -6,3 +8,10 @@ How to configure a django environment with machine Learning
 4. above in the panel select git init
 5. In the left panel select the files to sync
 6. init jupyterlab
+7. Upload the untracked files
+8. create the commit and press the button
+9. Go to github and create a new repository
+10. Write in the console git remote add origin git@github.com:gafarina/TryDjango2.git
+11. git push -u origin master
+12. Upload the Untracked,commit and pull with the icon of above pull and push.
+13. Begin to Django application.
