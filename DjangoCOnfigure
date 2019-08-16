@@ -17,5 +17,7 @@ How to configure a django environment with machine Learning
 13. Begin to Django application.
 
 Install django
+------------------------------------------------
+1. pip install django
 
 
