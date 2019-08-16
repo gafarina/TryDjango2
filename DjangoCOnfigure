@@ -1,0 +1,8 @@
+How to configure a django environment with machine Learning
+
+1. Open the console or terminal
+2. source activate MachineLearning
+3. write in the console jupyter lab
+4. above in the panel select git init
+5. In the left panel select the files to sync
+6. init jupyterlab
